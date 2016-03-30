@@ -43,3 +43,9 @@
 
 ### Paste into brower URL
 ![Go to GitHub Settings](Readme-imgs/final-site.png)
+
+### Added URL to the top of the Repo description.
+![Go to GitHub Settings](Readme-imgs/add-des1.png)
+
+### URL now added.
+![Go to GitHub Settings](Readme-imgs/add-des2.png)

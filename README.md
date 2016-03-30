@@ -3,6 +3,7 @@
 
 ### On GitHub Create new Repo
 ![New Repo Button](Readme-imgs/new-repo.png)
+<<<<<<< HEAD
 
 
 ### Name the Repo
@@ -15,6 +16,26 @@
 ### Select path to local GitHub folder
 ![Name Repo](Readme-imgs/local-repo-path.png)
 
+
+### Copy all site files to this local folder
+![Create branch](Readme-imgs/copy-local-repo.png)
+
+=======
+
+
+### Name the Repo
+![Name Repo](Readme-imgs/name-repo.png)
+
+### On GitHub Desktop App Clone Repo
+![Name Repo](Readme-imgs/select-clone.png)
+
+
+### Select path to local GitHub folder
+![Name Repo](Readme-imgs/local-repo-path.png)
+>>>>>>> master
+
+### In GitHub Dektop name and update commit
+![Create branch](Readme-imgs/name-commit.png)
 
 ### Copy all site files to this local folder
 ![Create branch](Readme-imgs/copy-local-repo.png)
@@ -42,4 +63,14 @@
 ![Go to GitHub Settings](Readme-imgs/GH-settings.png)
 
 ### Paste into brower URL
+<<<<<<< HEAD
 ![Go to GitHub Settings](Readme-imgs/final-site.png)
+=======
+![Go to GitHub Settings](Readme-imgs/final-site.png)
+
+### Added URL to the top of the Repo description.
+![Go to GitHub Settings](Readme-imgs/add-des1.png)
+
+### URL now added.
+![Go to GitHub Settings](Readme-imgs/add-des2.png)
+>>>>>>> master

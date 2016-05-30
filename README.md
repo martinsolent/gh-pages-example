@@ -1,5 +1,5 @@
 
-# Example of GitHub Pages hosted website for a Repo
+# Set-up GitHub Pages (satic site) for a Repo
 
 ### On GitHub Create new Repo
 ![New Repo Button](Readme-imgs/new-repo.png)

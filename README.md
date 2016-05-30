@@ -1,5 +1,5 @@
 
-# Example of GitHub Pages hosted website
+# Example of GitHub Pages hosted website for a Repo
 
 ### On GitHub Create new Repo
 ![New Repo Button](Readme-imgs/new-repo.png)

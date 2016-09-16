@@ -16,7 +16,7 @@
 ### Copy all site files to this local folder
 ![Create branch](Readme-imgs/copy-local-repo.png)
 
-### In GitHub Dektop name and update commit
+### In GitHub Dektop name and click Commit To Master
 ![Create branch](Readme-imgs/name-commit.png)
 
 ### Click on Publish
@@ -28,7 +28,7 @@
 ### Click on Publish or Sync
 ![Click on Publish](Readme-imgs/publish.png)
 
-### On GitHub Repo (refresh browser) go to Setting & copy URL 
+### On GitHub Repo (refresh browser) go to Setting & copy URL from green box
 ![Go to GitHub Settings](Readme-imgs/GH-settings.png)
 
 ### Added URL to the top of the Repo description.

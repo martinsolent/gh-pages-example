@@ -1,7 +1,7 @@
 
 # Set-up GitHub Pages (static site) for a Repo
 
-### Try it out
+## Try it out
 GitHub Pages allows you to host a static site (markup and stylesheets) which can be used as an example or a promotional tool for your project. Go to  the link at the top of this repo for an example of how get how pages works (as shown below):
 ![First Example](Readme-imgs/first_example.png)
 
